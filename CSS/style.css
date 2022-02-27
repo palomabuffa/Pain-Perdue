@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;500&family=Bebas+Neue&family=Fjalla+One&family=Playfair+Display&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+@import url("components/container.css");
+@import url("components/profile.css");
+@import url("components/button.css");
+@import url("components/banner.css")
+
+body{
+	font-family: time;
+	
+}
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 35px;
+	color: rgb(237, 120, 66);
+}
+
+h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+
+
+}
+
